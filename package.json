@@ -1,6 +1,6 @@
 {
   "name": "type-speed-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fun CLI typing speed test written in Node.js",
   "main": "bin/index.js",
   "bin": {
