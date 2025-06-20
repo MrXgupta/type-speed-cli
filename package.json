@@ -1,0 +1,25 @@
+{
+  "name": "type-speed-cli",
+  "version": "1.0.0",
+  "description": "A fun CLI typing speed test written in Node.js",
+  "main": "bin/index.js",
+  "bin": {
+    "typetest": "./bin/index.mjs"
+  },
+  "type": "module",
+  "keywords": [
+    "typing",
+    "cli",
+    "speedtest",
+    "wpm",
+    "keyboard"
+  ],
+  "author": "Alok Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "figlet": "^1.6.0",
+    "word-wrap": "^1.2.3"
+  }
+}
