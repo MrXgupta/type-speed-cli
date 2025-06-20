@@ -28,7 +28,7 @@ npm install -g type-speed-cli
 ### From GitHub
 
 ```bash
-git clone https://github.com/your-username/type-speed-cli.git
+git clone https://github.com/Mrxgupta/type-speed-cli.git
 cd type-speed-cli
 npm install
 npm link
@@ -74,7 +74,7 @@ Mistakes:         4
 Pull requests are welcome! If you have ideas for enhancements or new features, feel free to open an issue or submit a PR.
 
 ```bash
-git clone https://github.com/your-username/type-speed-cli
+git clone https://github.com/Mrxgupta/type-speed-cli
 npm install
 npm run dev
 ```
